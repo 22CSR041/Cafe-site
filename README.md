@@ -1,7 +1,7 @@
-Café Website
+Café Website:
 Welcome to the Café Website project! This project is a fully responsive website for a café, featuring multiple sections that showcase the café's offerings, atmosphere, and contact information. The website is designed to provide a seamless user experience across all devices, from desktops to mobile phones.
 
-Table of Contents
+Table of Contents:
 
 Live Demo
 Features
@@ -12,7 +12,7 @@ Why Us
 Gallery
 Contact
 
-Features
+Features:
 
 Responsive Design: The website is fully responsive, ensuring a great user experience on all devices, from desktops to mobile phones.
 Intuitive Navigation: Users can easily navigate through different sections of the website, including Services, Why Us, Gallery, and Contact.
@@ -22,22 +22,22 @@ Image Gallery: A dedicated gallery page showcasing images of the café's ambianc
 
 Pages
 
-Home
+Home:
 The landing page of the website introduces the café with a welcoming message, featured images, and a brief overview of what the café offers.
 
-Services
+Services:
 This page details the services provided by the café, including dining, catering, and special events.
 
-Why Us
+Why Us:
 The "Why Us" page highlights what makes the café unique, including customer testimonials, awards, and key selling points that set the café apart from competitors.
 
-Gallery
+Gallery:
 The gallery page displays high-quality images of the café's interior, dishes, events, and happy customers.
 
-Contact
+Contact:
 The contact page includes a form where customers can submit inquiries or make reservations. It also provides the café's address, phone number, and a Google Maps embed for easy navigation.
 
-Technologies Used
+Technologies Used:
 
 HTML5
 CSS3
